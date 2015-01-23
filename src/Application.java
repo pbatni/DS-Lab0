@@ -2,6 +2,8 @@
 public class Application {
 
 	public static void main(String[] args) {
+		
+		//HI, just a test!
 
 		//TODO:Take 2 args: config_file, name string of particular process
 		
